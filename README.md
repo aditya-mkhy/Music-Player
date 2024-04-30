@@ -15,7 +15,6 @@ Music Player is a sleek and lightweight music player built entirely in Python, l
 ![image](https://github.com/aditya-mkhy/Music-Player/assets/88531382/b5aec60f-af6b-49e9-b51e-35da9549d6c0)
 &nbsp; &nbsp; &nbsp; 
 
-![image](https://github.com/aditya-mkhy/Music-Player/assets/88531382/3d826c0f-2968-4851-af3e-b2b4db01671d)
 &nbsp; &nbsp; &nbsp; 
 
 ![image](https://github.com/aditya-mkhy/Music-Player/assets/88531382/5da4d58c-41c0-464c-9dd6-7ac158fcdabd)
