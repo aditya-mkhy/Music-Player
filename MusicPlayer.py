@@ -66,7 +66,7 @@ import json
 
 
 
-def resource_path(relative_path):
+def resource_path(relative_path):# find the installed path
     path=os.path.dirname(sys.executable)    
     return path+'/'+relative_path
 
@@ -81,7 +81,6 @@ class DataBabse(dict):
 
         self.file_name = "data/db.music"
         self.path = resource_path(self.file_name)
-
         self.load()
 
 
@@ -162,7 +161,6 @@ class ServerMusic:
 
 
     def Server(self):
-        print("@@__Starting__Server__@@")
         self.network = socket.socket()
         self.network.bind((self.host, self.port))
         self.network.listen(100)
